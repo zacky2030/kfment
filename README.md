@@ -5,8 +5,8 @@
 <h1> :grey_question: About </h1>
   <p> 🏷 My name is Efe </p>
   <p> 🤓 I am full-stack developer </p>
-  <p> :flag_white: I live in Turkey </p>
-  <p> :desktop: Favorite programming language <a href="https://en.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
+  <p> 🏳 I live in Turkey </p>
+  <p>🖥 Favorite programming language <a href="https://en.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
 
 <h1> ✍ Technologies I use </h1>
