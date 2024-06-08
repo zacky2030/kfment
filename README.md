@@ -13,7 +13,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,py,django,discord,github,stackoverflow&theme=dark" />
 
 <h1> :chart_with_upwards_trend: My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=kfment&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=zacky2030&show_icons=true&theme=dark" />
 
 <h1> :gem: My achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=kfment&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=zacky2030&theme=onedark" />
